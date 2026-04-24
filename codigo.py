@@ -1,0 +1,1 @@
+print('Se inscreva no canal')
